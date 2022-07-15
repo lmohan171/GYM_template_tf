@@ -1,6 +1,0 @@
-gym
-notebook
-seaborn
-matplotlib
-gym[classic_control)
-tensorflow
